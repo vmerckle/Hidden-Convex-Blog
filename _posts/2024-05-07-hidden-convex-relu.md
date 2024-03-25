@@ -13,7 +13,7 @@ authors:
     affiliations:
       name: LabHC, LJK - France
   - name: Franck Iutzeler
-    url: "https://iutzeler.org/"
+    url: "https://www.iutzeler.org/"
     affiliations:
       name: Institut de Mathématiques de Toulouse, Université de Toulouse, CNRS
   - name: Ievgen Redko
